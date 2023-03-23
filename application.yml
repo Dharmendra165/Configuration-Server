@@ -1,7 +1,7 @@
 
-spring:
-  application:
-    name: Configuration Server Default
+#spring:
+ # application:
+  #  name: Configuration Server Default
 
 eureka:
   instance:
